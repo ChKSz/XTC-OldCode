@@ -2,7 +2,7 @@
 
 ## 使用链接：
 
-  [s.chksz.cn](https://s.chksz.cn)
+  [s.chksz.top](https://s.chksz.top)
   
 ## 项目介绍
 
@@ -12,4 +12,4 @@
   
 ## 我的介绍
 
-  [ChKSz](https://chksz.cn)
+  [ChKSz](https://page.chksz.top)
